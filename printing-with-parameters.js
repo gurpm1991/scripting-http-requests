@@ -27,4 +27,4 @@ function getAndPrintHTML (options) {
     // path: '/http-examples/step2.html'
   };
 
-getAndPrintHTML(requestOptions)
+getAndPrintHTML(requestOptions);
